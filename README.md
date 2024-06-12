@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meus perfil 🥇
 
-<!--
-**leozinn0/leozinn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Leonardo
 
-Here are some ideas to get you started:
+- Eu sou um cara lindo
+- gosto de churrasco
+- gosto de tomar uma com meus amigos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Voce pode entrar em contato comigo
+
+- leonardoviana2511@icloud.com
+
+- V_leozinnn
+
+- ![](https://media1.tenor.com/m/2TepFMlFY98AAAAC/cacha%C3%A7a.gif)
